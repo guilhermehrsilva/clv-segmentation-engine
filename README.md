@@ -28,7 +28,7 @@ ML pipeline that combines RFM analysis, K-Means clustering, and XGBoost regressi
 
 ## Data
 
-This project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle). The raw CSV files are **not versioned** — they total ~128 MB and are reproducible from the source.
+This project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle). The raw CSV files are **not versioned**: they total ~128 MB and are reproducible from the source.
 
 ```bash
 pip install kagglehub
@@ -81,4 +81,4 @@ docker run -p 8000:8000 clv-engine
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
