@@ -146,3 +146,8 @@ cython_debug/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Dados brutos e processados - baixados por scripts/baixar_dados.py
+data/
+.kaggle_cache/
+*.csv
